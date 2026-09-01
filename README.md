@@ -1,2 +1,2 @@
 # DevOps ashok
-Basic details about github
+Learning about devops
